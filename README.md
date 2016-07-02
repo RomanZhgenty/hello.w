@@ -1,2 +1,2 @@
 # hello.w
-hello word by instructions
+hello world by instructions
